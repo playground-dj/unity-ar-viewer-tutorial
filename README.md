@@ -7,7 +7,7 @@ The purpose is to understand the basic operations of the Unity Editor and the st
 
 ## Technologies Used
 
-- Unity 2022.3 LTS
+- Unity Personal
 - AR Foundation
 - Android Build (or iOS / PC)
 
